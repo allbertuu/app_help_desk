@@ -1,0 +1,11 @@
+{
+  "name": "app_help_desk",
+  "version": "1.0.0",
+  "description": "PHP Project",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Vinícius A. dos Santos",
+  "license": "ISC"
+}
